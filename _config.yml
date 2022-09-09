@@ -28,7 +28,8 @@ twitter_username: fivefivethree_
 github_username:  fivefivethree
 
 # Build settings
-theme: minima
+# Removed minima, now regular dinky theme
+# theme: minima
 plugins:
   - jekyll-feed
 
